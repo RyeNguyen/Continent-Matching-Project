@@ -1,0 +1,1 @@
+gdjs.projectData = JSON.parse("data.json");
