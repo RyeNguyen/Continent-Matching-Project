@@ -1,7 +1,7 @@
 # Continent-Matching-Project
 ### Software Engineer assignment.
 
-This is the final project in Software Engineer. I picked the jigsaw based game __Continent Matching__ and I decided to use __GDevelop 5__ to implement the game.
+This is the final project in Software Engineer. I picked the jigsaw based game __Continent Matching__ and I decided to use __GDevelop 5__; also after exporting to HTML5 file I had some fix in the code to implement the game.
 I took the inspiration from this page:  
 
 ![Screenshot (101)](https://user-images.githubusercontent.com/48546888/85937283-52f97080-b92c-11ea-9316-30d2e923c390.png)
@@ -24,5 +24,7 @@ This is like a jigsaw game, so the rule is simple. The player can choose the __c
 Each continent has their own __guide voice__ in case the player is still too young and/or is not able to read. The player can click on the __dialogue bubbles__ on the screen to hear the guide again. The continents is __rotated randomly__ if it's not in the correct position, the player is likely to press the __R__ button on the keyboard to rotate the continents to locate the right position more precisely.
 
 They can also press the __Esc__ button to return to the __intro screen__ which is also restart the game.
+
+*Note: About changing the data, I have not found out how to implement it through JSON file, but in the __data.js__ file, data can be changed. Just go into __data.js__ on GitHub, change the __gdjs.projectData__ from __data__ to __data2__, the background image and the music will be different.
 
 Play the game here: https://ryenguyen.github.io/Continent-Matching-Project/
