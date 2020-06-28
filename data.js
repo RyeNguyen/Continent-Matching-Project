@@ -26,4 +26,4 @@ let data2 = {"firstLayout": "","gdVersion": {"build": 98,"major": 4,"minor": 0,"
 //    data2 = request2.response;
 //};
 
-gdjs.projectData = data2;
+gdjs.projectData = data;
