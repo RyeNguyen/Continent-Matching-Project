@@ -25,8 +25,8 @@ Each continent has their own __guide voice__ in case the player is still too you
 
 They can also press the __Esc__ button to return to the __intro screen__ which is also restart the game.
 
-*Note: About changing the data, I have not found out how to implement it through JSON file, but in the __data.js__ file, data can be changed. Just go into __data.js__ on GitHub, change the __gdjs.projectData__ from __data__ to __data2__, the background image and the music will be different.*
+*Note: This game does not support user input. The only way to change the data is to go to the source code. The file __data.js__ right now is having 2 databases; to change the data just go to the bottom line, change the value of __gdjs.projectData__ from __data__ to __data2__ and the music as well as the background of the game will change. Once again, the data of the game cannot be changed through user interface, because of my lacking of knowledge about GDevelop.* 
 
 ![Screenshot (102)](https://user-images.githubusercontent.com/48546888/85946147-6f1d0200-b96c-11ea-9c16-fe93aba2b4b0.png)
 
-Play the game here: https://ryenguyen.github.io/Continent-Matching-Project/
+Play the game here, have fun: https://ryenguyen.github.io/Continent-Matching-Project/
